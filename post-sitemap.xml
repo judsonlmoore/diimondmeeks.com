@@ -1,42 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http:///wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.diimondmeeks.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http:///2018/06/draft-press-release/</loc>
+		<loc>https://www.diimondmeeks.com/2018/06/draft-press-release/</loc>
 		<lastmod>2018-06-18T15:33:58+00:00</lastmod>
 		<image:image>
-			<image:loc>http:///wp-content/uploads/2018/06/diimond-meeks-press-release-featured-image.png</image:loc>
+			<image:loc>https://www.diimondmeeks.com/wp-content/uploads/2018/06/diimond-meeks-press-release-featured-image.png</image:loc>
 			<image:title><![CDATA[diimond-meeks-press-release-featured-image]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc>http:///2018/05/diimond-meeks-releases-new-song-loose-me/</loc>
+		<loc>https://www.diimondmeeks.com/2018/05/diimond-meeks-releases-new-song-loose-me/</loc>
 		<lastmod>2018-07-20T17:48:56+00:00</lastmod>
 		<image:image>
-			<image:loc>http:///wp-content/uploads/2018/06/diimond-meeks-press-release-featured-image.png</image:loc>
+			<image:loc>https://www.diimondmeeks.com/wp-content/uploads/2018/06/diimond-meeks-press-release-featured-image.png</image:loc>
 			<image:title><![CDATA[diimond-meeks-press-release-featured-image]]></image:title>
 		</image:image>
 		<image:image>
-			<image:loc>http:///wp-content/uploads/2018/05/diimond-meeks-loose-me-release-party-getty-images-001.jpg</image:loc>
+			<image:loc>https://www.diimondmeeks.com/wp-content/uploads/2018/05/diimond-meeks-loose-me-release-party-getty-images-001.jpg</image:loc>
 			<image:caption><![CDATA[Sony Music And Recording Artist Diimond Meeks Host Official "Loose Me" Record Release Party]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http:///wp-content/uploads/2018/05/diimond-meeks-loose-me-release-party-getty-images-002.jpg</image:loc>
+			<image:loc>https://www.diimondmeeks.com/wp-content/uploads/2018/05/diimond-meeks-loose-me-release-party-getty-images-002.jpg</image:loc>
 			<image:caption><![CDATA[Sony Music And Recording Artist Diimond Meeks Host Official "Loose Me" Record Release Party]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http:///wp-content/uploads/2018/05/diimond-meeks-loose-me-release-party-getty-images-003.jpg</image:loc>
+			<image:loc>https://www.diimondmeeks.com/wp-content/uploads/2018/05/diimond-meeks-loose-me-release-party-getty-images-003.jpg</image:loc>
 			<image:caption><![CDATA[Sony Music And Recording Artist Diimond Meeks Host Official "Loose Me" Record Release Party]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http:///wp-content/uploads/2018/05/diimond-meeks-loose-me-release-party-getty-images-004.jpg</image:loc>
+			<image:loc>https://www.diimondmeeks.com/wp-content/uploads/2018/05/diimond-meeks-loose-me-release-party-getty-images-004.jpg</image:loc>
 			<image:caption><![CDATA[Sony Music And Recording Artist Diimond Meeks Host Official "Loose Me" Record Release Party]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http:///wp-content/uploads/2018/05/diimond-meeks-loose-me-release-party-getty-images-005.jpg</image:loc>
+			<image:loc>https://www.diimondmeeks.com/wp-content/uploads/2018/05/diimond-meeks-loose-me-release-party-getty-images-005.jpg</image:loc>
 			<image:caption><![CDATA[Sony Music And Recording Artist Diimond Meeks Host Official "Loose Me" Record Release Party]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http:///wp-content/uploads/2018/05/diimond-meeks-loose-me-release-party-getty-images-006.jpg</image:loc>
+			<image:loc>https://www.diimondmeeks.com/wp-content/uploads/2018/05/diimond-meeks-loose-me-release-party-getty-images-006.jpg</image:loc>
 			<image:caption><![CDATA[Sony Music And Recording Artist Diimond Meeks Host Official "Loose Me" Record Release Party]]></image:caption>
 		</image:image>
 	</url>

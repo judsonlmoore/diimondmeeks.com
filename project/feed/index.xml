@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Projects | DIIMOND MEEKS</title>
-	<atom:link href="http:///project/feed/" rel="self" type="application/rss+xml" />
-	<link>http:///</link>
+	<atom:link href="https://www.diimondmeeks.com/project/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.diimondmeeks.com/</link>
 	<description></description>
 	<lastBuildDate>Mon, 09 Nov 2020 19:59:36 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=5.9</generator>
 
 <image>
-	<url>http:///wp-content/uploads/2018/05/cropped-favico-32x32.png</url>
+	<url>https://www.diimondmeeks.com/wp-content/uploads/2018/05/cropped-favico-32x32.png</url>
 	<title>Projects | DIIMOND MEEKS</title>
-	<link>http:///</link>
+	<link>https://www.diimondmeeks.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

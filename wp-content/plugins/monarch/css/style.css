@@ -58,11 +58,11 @@
 
 @font-face {
 	font-family:'ETmonarch';
-	src:url('http:///wp-content/plugins/monarch/css/fonts/monarch.eot');
-	src:url('http:///wp-content/plugins/monarch/css/fonts/monarch.eot#iefix') format('embedded-opentype'),
-		url('http:///wp-content/plugins/monarch/css/fonts/monarch.ttf') format('truetype'),
-		url('http:///wp-content/plugins/monarch/css/fonts/monarch.woff') format('woff'),
-		url('http:///wp-content/plugins/monarch/css/fonts/monarch.svg#ETmonarch') format('svg');
+	src:url('https://www.diimondmeeks.com/wp-content/plugins/monarch/css/fonts/monarch.eot');
+	src:url('https://www.diimondmeeks.com/wp-content/plugins/monarch/css/fonts/monarch.eot#iefix') format('embedded-opentype'),
+		url('https://www.diimondmeeks.com/wp-content/plugins/monarch/css/fonts/monarch.ttf') format('truetype'),
+		url('https://www.diimondmeeks.com/wp-content/plugins/monarch/css/fonts/monarch.woff') format('woff'),
+		url('https://www.diimondmeeks.com/wp-content/plugins/monarch/css/fonts/monarch.svg#ETmonarch') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }

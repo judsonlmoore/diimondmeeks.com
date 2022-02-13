@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http:///wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.diimondmeeks.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http:///product-category/swag/</loc>
+		<loc>https://www.diimondmeeks.com/product-category/swag/</loc>
 		<lastmod>2018-09-07T08:36:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http:///product-category/accessories/</loc>
+		<loc>https://www.diimondmeeks.com/product-category/accessories/</loc>
 	</url>
 	<url>
-		<loc>http:///product-category/shirts/kids-shirts-and-onesies/</loc>
+		<loc>https://www.diimondmeeks.com/product-category/shirts/kids-shirts-and-onesies/</loc>
 		<lastmod>2018-06-12T11:32:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http:///product-category/shirts/mens-shirts/</loc>
+		<loc>https://www.diimondmeeks.com/product-category/shirts/mens-shirts/</loc>
 		<lastmod>2018-06-11T11:59:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http:///product-category/accessories/drinkware-blankets-home-decor-and-misc-accessories/</loc>
+		<loc>https://www.diimondmeeks.com/product-category/accessories/drinkware-blankets-home-decor-and-misc-accessories/</loc>
 		<lastmod>2018-06-12T11:53:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http:///product-category/shirts/</loc>
+		<loc>https://www.diimondmeeks.com/product-category/shirts/</loc>
 	</url>
 	<url>
-		<loc>http:///product-category/shirts/womens-shirts/</loc>
+		<loc>https://www.diimondmeeks.com/product-category/shirts/womens-shirts/</loc>
 		<lastmod>2019-05-01T21:08:07+00:00</lastmod>
 	</url>
 </urlset>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Homepage	</title>
-	<atom:link href="http:///homepage/feed/" rel="self" type="application/rss+xml" />
-	<link>http:///</link>
+	<atom:link href="https://www.diimondmeeks.com/homepage/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.diimondmeeks.com/</link>
 	<description></description>
 	<lastBuildDate>Wed, 26 Feb 2020 13:05:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
